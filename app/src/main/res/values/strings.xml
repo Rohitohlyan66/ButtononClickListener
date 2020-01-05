@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextView,ImageViews And Buttons</string>
+    <string name="press_it">Press it</string>
+    <string name="welcome">WELCOME</string>
+</resources>
